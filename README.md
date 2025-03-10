@@ -89,13 +89,7 @@ Uno de los principales retos y requisitos del proyecto es gestionar la concurren
 - No se generen conflictos entre los jugadores (por ejemplo, dos jugadores empujando la misma caja al mismo tiempo).
 - Las vidas y monedas se gestionen de forma consistente para todos los jugadores en la sala.
 
-## Próximos Pasos
-
-- Implementación de **código**, **pruebas unitarias** y **pruebas de integración** para asegurar la calidad del código.
-- Implementación y optimización de la **comunicación en tiempo real** para asegurar la sincronización de los movimientos entre jugadores.
-
 ## Integrantes
 
 - Ana Maria Duran
-- Julian David Triana
 - Milton Andrés Gutierrez
